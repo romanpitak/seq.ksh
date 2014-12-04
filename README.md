@@ -1,4 +1,4 @@
-# SEQUENCE ( print a sequence of numbers )
+# SEQ (print a sequence of numbers)
 
 ## SYNOPSIS
 
