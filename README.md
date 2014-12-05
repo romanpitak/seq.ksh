@@ -1,5 +1,7 @@
 # SEQ (print a sequence of numbers)
 
+(c) 2011-2014 [Roman Piták](http://pitak.net) roman@pitak.net
+
 ## SYNOPSIS
 
     seq [OPTION] LAST                  : print a sequence of numbers from 1 to LAST
